@@ -3,7 +3,7 @@
 ### Backend Engineer | Data Enthusiast 
 
 ### About Me
-I’m a Software Developer with over 2+ years of backend engineering experience, specializing in designing and building scalable, data-intensive systems. My passion lies in optimizing workflows, crafting robust APIs, and leveraging data to solve real-world challenges in healthcare and fintech. I’m currently honing my skills in Data Science and Machine Learning to drive impactful innovations.
+I’m a Software Developer with over 3+ years of backend engineering experience, specializing in designing and building scalable, data-intensive systems. My passion lies in optimizing workflows, crafting robust APIs, and leveraging data to solve real-world challenges in healthcare and fintech. I’m currently honing my skills in Data Science and Machine Learning to drive impactful innovations.
 
 ### Technical Skills
 `Languages: Python (Flask, Pandas, NumPy), SQL, JavaScript/TypeScript, React, R` 
