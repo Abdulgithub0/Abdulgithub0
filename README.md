@@ -1,5 +1,5 @@
 Hello, 
-I'm Bello Abdulsamad, software developer focused on backend systems, infrastructure, and performance optimization, with an interest in building scalable, secure, and reliable services.
+I'm Bello Abdulsamad, software engineer focused on backend systems, infrastructure, and performance optimization, with an interest in building scalable, secure, and reliable services.
 
 ### Technical Skills
 `Languages: Python, C/C++, JavaScript/TypeScript` 
